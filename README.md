@@ -2,7 +2,7 @@
 ![Banner](https://media.licdn.com/dms/image/C4E16AQGeEIvgYibS5Q/profile-displaybackgroundimage-shrink_350_1400/0/1611202296665?e=1709769600&v=beta&t=2z2zixToiAeQFE2jEbnY-ea5mYopIhEa7ACURYMOSE4)
 
 <!-- Welcome Message -->
-# Hello, I'm Scott Tremaine! 👋
+
 
 <!-- Introduction -->
 ## 🚀 About Me
