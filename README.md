@@ -16,12 +16,6 @@ If you're new to the industry or looking to transition into tech, I invite you t
 
 For more articles, visit [my articles page on LinkedIn](https://www.linkedin.com/in/scott-tremaine-6829411/recent-activity/articles/).
 
-## :tv: YouTube Channel
-
-Check out my [YouTube channel](https://www.youtube.com/@JourneymanCoder) for more tech insights and tutorials. One of my latest efforts is the "Life after [coding] Bootcamp" playlist - a series designed to support those who have recently completed a coding bootcamp and are on the path to becoming professional developers.
-
-👉 Watch the playlist here: ["Life after [coding] Bootcamp"](https://www.youtube.com/playlist?list=PLUW7fby4Lmn9WhYQDk9qwGCaDHP_pNLjy)
-
 ## :books: Udemy Courses
 
 Ready to level up your skills? I've created several courses on Udemy to help you grow. Whether you are getting started or looking to deepen your understanding of Data Structures and Algorithms, there's something for you:
