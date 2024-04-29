@@ -1,5 +1,3 @@
-<!-- Banner image -->
-![Banner](https://media.licdn.com/dms/image/C4E16AQGeEIvgYibS5Q/profile-displaybackgroundimage-shrink_350_1400/0/1611202296665?e=1709769600&v=beta&t=2z2zixToiAeQFE2jEbnY-ea5mYopIhEa7ACURYMOSE4)
 
 <!-- Welcome Message -->
 <p align="center"> "In any given moment we have two options: to step forward into growth or to step back into safety" ~ Abraham Maslow
